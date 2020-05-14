@@ -1,0 +1,95 @@
+<!DOCTYPE>
+
+<html ng-app="myApp">
+
+<head>
+
+<!-- Latest compiled and minified CSS -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+
+
+<!-- Optional theme -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+
+
+  <title>Hotel list</title>
+
+</head>
+
+<body>
+
+  <div class="container" ng-controller="AppCtrl">
+
+    <h1>Hotel Review</h1>
+
+
+
+    <table class="table">
+
+      <thead>
+
+        <tr>
+
+          <th>Hotel Name</th>         
+
+          <th>Location</th>
+
+          <th>Type</th>
+
+          <th>Action</th>
+
+          <th>&nbsp;</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td><input class="form-control" ng-model="hotel.Name"></td>
+
+          <td><input class="form-control" ng-model="hotel.Location"></td>
+
+          <td><input class="form-control" ng-model="hotel.HotelType"></td>
+
+          <td><button class="btn btn-primary" ng-click="hotelsAddOne()">Add Task</button></td>
+
+          <td><button class="btn btn-info" ng-click="update()">Update</button>&nbsp;&nbsp;<button class="btn btn-info" ng-click="deselect()">Clear</button></td>
+
+        </tr>
+
+        <tr ng-repeat="Hotel in hotel">
+
+          <td>{{hotel.Name}}</td>
+
+          <td>{{hotel.Location}}</td>
+
+          <td>{{hotel.HotelType}}</td>
+
+          <td><button class="btn btn-danger" ng-click="remove(contact._id)">Remove</button></td>
+
+          <td><button class="btn btn-warning" ng-click="edit(contact._id)">Edit</button></td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+
+
+  </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.min.js"></script>
+
+<script src="/api/controllers/hotels.controller.js"></script>
+
+</body>
+
+</html>

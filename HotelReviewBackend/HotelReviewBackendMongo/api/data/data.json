@@ -1,0 +1,1375 @@
+[{
+	"_id": {
+		"$oid": "5caccf4d5e939761f8d36a81"
+	},
+	"Name": "Marine Court",
+	"Location": "Bangor",
+	"HotelType": "SeaSide Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/276/27610682.jpg",
+	"Website": "http://marinecourthotel.net/",
+	"review_count": 1,
+	"latitude": 54.664404,
+	"longitude": -5.66639,
+	"reviews": [
+		{
+			"username": "Thomas ",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0ec592e0b724f7ca651ff"
+				}
+			},
+			"text": "Great views from the balcony.",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0ec592e0b724f7ca651fe"
+			},
+			"date": {
+				"$date": "2019-04-12T19:51:53.912Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5caf222eaa995c2bfcb4ab75"
+	},
+	"Name": "Grand Central",
+	"Location": "Belfast",
+	"HotelType": "Luxury Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://media-cdn.tripadvisor.com/media/photo-s/12/f9/23/0b/grand-central-hotel.jpg",
+	"Website": "https://www.grandcentralhotelbelfast.com/",
+	"review_count": 1,
+	"latitude": 54.595395,
+	"longitude": -5.93154,
+	"reviews": [
+		{
+			"username": "Thomas",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fbf52e0b724f7ca65271"
+				}
+			},
+			"text": "Such a great hotel",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fbf52e0b724f7ca65270"
+			},
+			"date": {
+				"$date": "2019-04-12T20:58:29.287Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0ef502e0b724f7ca65212"
+	},
+	"Name": "Salty Dog",
+	"Location": "Bangor",
+	"HotelType": "Seaside Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://media-cdn.tripadvisor.com/media/photo-s/05/50/26/d6/the-salty-dog-hotel-and.jpg",
+	"Website": "www.saltydog.com",
+	"review_count": 4,
+	"latitude": 54.664404,
+	"longitude": -5.66639,
+	"reviews": [
+		{
+			"username": "Sophie",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc032e0b724f7ca65278"
+				}
+			},
+			"text": "Had lots of fun",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fc032e0b724f7ca65277"
+			},
+			"date": {
+				"$date": "2019-04-12T20:58:43.166Z"
+			}
+		},
+		{
+			"username": "Thomas",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc0f2e0b724f7ca6527c"
+				}
+			},
+			"text": "Food wasn't great ",
+			"stars": 2,
+			"_id": {
+				"$oid": "5cb0fc0f2e0b724f7ca6527b"
+			},
+			"date": {
+				"$date": "2019-04-12T20:58:55.232Z"
+			}
+		},
+		{
+			"username": "Lee",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc1d2e0b724f7ca65282"
+				}
+			},
+			"text": "I had a good nights sleep",
+			"stars": 4,
+			"_id": {
+				"$oid": "5cb0fc1d2e0b724f7ca65281"
+			},
+			"date": {
+				"$date": "2019-04-12T20:59:09.349Z"
+			}
+		},
+		{
+			"username": "David",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc312e0b724f7ca6528a"
+				}
+			},
+			"text": "Best seaside hotel!",
+			"stars": 4,
+			"_id": {
+				"$oid": "5cb0fc312e0b724f7ca65289"
+			},
+			"date": {
+				"$date": "2019-04-12T20:59:29.946Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0effa2e0b724f7ca65217"
+	},
+	"Name": "Jurys Inn",
+	"Location": "Belfast",
+	"HotelType": "City Centre",
+	"Country": "Northern Ireland",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/919/91912894.jpg",
+	"Website": "www.JurysInn.com",
+	"review_count": 1,
+	"latitude": 54.596237,
+	"longitude": -5.935052,
+	"reviews": [
+		{
+			"username": "Thomas",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc462e0b724f7ca6529c"
+				}
+			},
+			"text": "I didn't have a great sleep",
+			"stars": 1,
+			"_id": {
+				"$oid": "5cb0fc462e0b724f7ca6529b"
+			},
+			"date": {
+				"$date": "2019-04-12T20:59:50.966Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f0472e0b724f7ca65218"
+	},
+	"Name": "Europa Hotel",
+	"Location": "Belfast",
+	"HotelType": "City Centre",
+	"Country": "Northern Ireland",
+	"Image": "data:image/jpeg;base64,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",
+	"Website": "www.europaHotel.com",
+	"review_count": 1,
+	"latitude": 54.595005,
+	"longitude": -5.935072,
+	"reviews": [
+		{
+			"username": "Peter",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc5c2e0b724f7ca652ad"
+				}
+			},
+			"text": "Does it get much better than Europa?",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fc5c2e0b724f7ca652ac"
+			},
+			"date": {
+				"$date": "2019-04-12T21:00:12.968Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f0ad2e0b724f7ca65219"
+	},
+	"Name": "Galgorm Hotel and Spa",
+	"Location": "Ballymeana",
+	"HotelType": "Luxury Hotel",
+	"Country": "Northern Ireland",
+	"Image": "data:image/jpeg;base64,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",
+	"Website": "www.Galgorm.com",
+	"review_count": 1,
+	"latitude": 54.877771,
+	"longitude": -6.348832,
+	"reviews": [
+		{
+			"username": "Thomas",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fc792e0b724f7ca652c0"
+				}
+			},
+			"text": "I came here for graduation, it was great!",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fc792e0b724f7ca652bf"
+			},
+			"date": {
+				"$date": "2019-04-12T21:00:41.873Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f1242e0b724f7ca6521e"
+	},
+	"Name": "Premier Inn",
+	"Location": "Belfast",
+	"HotelType": "Budget Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f1622e0b724f7ca6521f"
+	},
+	"Name": "-E - Tap",
+	"Location": "Belfast",
+	"HotelType": "Budget Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://discovernorthernireland.com/contentassets/c2aae3c484dc495da4c9e5bf34aa1f4c/etap1/?height=247\u0026width=380\u0026mode=crop",
+	"Website": "www.etaphotel.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f2332e0b724f7ca65220"
+	},
+	"Name": "Mr and Mrs Jones hotel",
+	"Location": "Portrush",
+	"HotelType": "Luxury Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://media-cdn.tripadvisor.com/media/photo-s/12/da/ac/c3/me-mrs-jones.jpg",
+	"Website": "www.mrandmrsjones.com",
+	"review_count": 3,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [
+		{
+			"username": "sophie",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fcb62e0b724f7ca652d5"
+				}
+			},
+			"text": "The decor was amazing!",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fcb62e0b724f7ca652d4"
+			},
+			"date": {
+				"$date": "2019-04-12T21:01:42.032Z"
+			}
+		},
+		{
+			"username": "Thomas",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fcc22e0b724f7ca652d9"
+				}
+			},
+			"text": "Wow, what a location!",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fcc22e0b724f7ca652d8"
+			},
+			"date": {
+				"$date": "2019-04-12T21:01:54.879Z"
+			}
+		},
+		{
+			"username": "David Watson",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fcd82e0b724f7ca652df"
+				}
+			},
+			"text": "Treated my wife to dinner here, Will return!",
+			"stars": 4,
+			"_id": {
+				"$oid": "5cb0fcd82e0b724f7ca652de"
+			},
+			"date": {
+				"$date": "2019-04-12T21:02:16.644Z"
+			}
+		},
+		{
+			"username": "Karen",
+			"votes": {
+				"funny": 0,
+				"useful": 0,
+				"cool": 0,
+				"_id": {
+					"$oid": "5cb0fce82e0b724f7ca652e7"
+				}
+			},
+			"text": "Such stylish room design",
+			"stars": 5,
+			"_id": {
+				"$oid": "5cb0fce82e0b724f7ca652e6"
+			},
+			"date": {
+				"$date": "2019-04-12T21:02:32.687Z"
+			}
+		}
+	],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f3362e0b724f7ca65221"
+	},
+	"Name": "The Port Hotel",
+	"Location": "Portrush",
+	"HotelType": "Luxury Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_450,q_auto:eco,w_450/itemimages/13/94/1394260_v2.jpeg",
+	"Website": "www.ThePortHotel.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f3792e0b724f7ca65222"
+	},
+	"Name": "The Merchant Hotel",
+	"Location": "Belfast",
+	"HotelType": "Luxury Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://s-ec.bstatic.com/images/hotel/max1024x768/131/13168603.jpg",
+	"Website": "www.MerchantHotel.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f3ca2e0b724f7ca65223"
+	},
+	"Name": "The Culloden Hotel",
+	"Location": "Holywood",
+	"HotelType": "Luxury Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://d2x0kq5o78djd2.cloudfront.net/www.hastingshotels.com/culloden-estate-and-spa/upload/slide_images/culloden-night-sept18.jpg",
+	"Website": "www.Culloden.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f4242e0b724f7ca65224"
+	},
+	"Name": "Hotel Ibis",
+	"Location": "Belfast",
+	"HotelType": "Budget Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 2,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f45c2e0b724f7ca65227"
+	},
+	"Name": "Hotel Ibis London",
+	"Location": "London",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 2,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f4672e0b724f7ca65228"
+	},
+	"Name": "Hotel Ibis Leeds",
+	"Location": "Leeds",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 2,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f4742e0b724f7ca65229"
+	},
+	"Name": "Hotel Ibis Newcastle",
+	"Location": "Newcastle",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 2,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f48b2e0b724f7ca6522a"
+	},
+	"Name": "Hotel Ibis Cardiff",
+	"Location": "Cardiff",
+	"HotelType": "Budget Hotel",
+	"Country": "Wales",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 2,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f4a32e0b724f7ca6522b"
+	},
+	"Name": "Hotel Ibis Glasgow",
+	"Location": "Glasgow",
+	"HotelType": "Budget Hotel",
+	"Country": "Scotland",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 2,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f4ea2e0b724f7ca6522e"
+	},
+	"Name": "Hotel Ibis Edinburough",
+	"Location": "Edinburough",
+	"HotelType": "Budget Hotel",
+	"Country": "Scotland",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5032e0b724f7ca6522f"
+	},
+	"Name": "Hotel Ibis Holland",
+	"Location": "Amsterdam",
+	"HotelType": "Budget Hotel",
+	"Country": "Holland",
+	"Image": "https://t-ec.bstatic.com/images/hotel/max1024x768/857/85736918.jpg",
+	"Website": "www.Ibis.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5392e0b724f7ca65230"
+	},
+	"Name": "Premier Inn Holland",
+	"Location": "Amsterdam",
+	"HotelType": "Budget Hotel",
+	"Country": "Holland",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f54a2e0b724f7ca65231"
+	},
+	"Name": "Premier Inn Swansea",
+	"Location": "Swansea",
+	"HotelType": "Budget Hotel",
+	"Country": "Wales",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5652e0b724f7ca65232"
+	},
+	"Name": "Premier Inn London",
+	"Location": "London",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f56f2e0b724f7ca65233"
+	},
+	"Name": "Premier Inn Leeds",
+	"Location": "leeds",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f58b2e0b724f7ca65235"
+	},
+	"Name": "Premier Inn Newcastle",
+	"Location": "Newcastle",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5992e0b724f7ca65236"
+	},
+	"Name": "Premier Inn Surry",
+	"Location": "Surry",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5a62e0b724f7ca65237"
+	},
+	"Name": "Premier Inn Liverpool",
+	"Location": "Liverpool",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5b72e0b724f7ca65238"
+	},
+	"Name": "Premier Inn Manchester",
+	"Location": "Manchester",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f5f52e0b724f7ca65239"
+	},
+	"Name": "Premier Inn Watford",
+	"Location": "Watford",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6022e0b724f7ca6523a"
+	},
+	"Name": "Premier Inn Norwich",
+	"Location": "Norwich",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6172e0b724f7ca6523b"
+	},
+	"Name": "Premier Inn Bristol ",
+	"Location": "Bristol ",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6502e0b724f7ca6523c"
+	},
+	"Name": "Premier Inn Bradford",
+	"Location": "Bradford ",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/28/98/2898826_v1.jpeg",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6942e0b724f7ca6523d"
+	},
+	"Name": "Hilton Hotel Las Vegas",
+	"Location": "Las Vegas",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6a82e0b724f7ca6523e"
+	},
+	"Name": "Hilton Hotel California",
+	"Location": "California",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6b42e0b724f7ca6523f"
+	},
+	"Name": "Hilton Hotel Texas",
+	"Location": "Texas",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f6c22e0b724f7ca65240"
+	},
+	"Name": "Hilton Hotel Miami",
+	"Location": "Miamii",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.premierInn.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f7022e0b724f7ca65241"
+	},
+	"Name": "Hilton Hotel Charlotte",
+	"Location": "Charlotte",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.HiltonHotel.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f7192e0b724f7ca65242"
+	},
+	"Name": "Hilton Hotel Georgia",
+	"Location": "Georgia",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.HiltonHotel.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f7642e0b724f7ca65243"
+	},
+	"Name": "Hilton Hotel Cleveland",
+	"Location": "Cleveland",
+	"HotelType": "Luxury Hotel",
+	"Country": "America",
+	"Image": "https://www.telegraph.co.uk/content/dam/business/2017/08/10/TELEMMGLPICT000136723018_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYDpM1iOj7her_R_5PUySDU.jpeg?imwidth=450",
+	"Website": "www.HiltonHotel.com",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f8562e0b724f7ca6524a"
+	},
+	"Name": "Holiday Inn Leeds",
+	"Location": "Leeds",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f8632e0b724f7ca6524b"
+	},
+	"Name": "Holiday Inn Norwich",
+	"Location": "Norwich",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f86e2e0b724f7ca6524c"
+	},
+	"Name": "Holiday Inn Ipswich",
+	"Location": "Ipswich",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f87e2e0b724f7ca6524d"
+	},
+	"Name": "Holiday Inn Chelmsford",
+	"Location": "Chelmsford",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f88b2e0b724f7ca6524e"
+	},
+	"Name": "Holiday Inn Coventry",
+	"Location": "Coventry",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f89c2e0b724f7ca6524f"
+	},
+	"Name": "Holiday Inn Liverpool",
+	"Location": "Liverpool",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f8b22e0b724f7ca65250"
+	},
+	"Name": "Holiday Inn Leciester",
+	"Location": "Leciester",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f8ca2e0b724f7ca65251"
+	},
+	"Name": "Holiday Inn Hull",
+	"Location": "Hull",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f8e52e0b724f7ca65252"
+	},
+	"Name": "Holiday Inn Stansted",
+	"Location": "London Stansted",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f8f52e0b724f7ca65253"
+	},
+	"Name": "Holiday Inn Heathrow",
+	"Location": "London Heathrow",
+	"HotelType": "City Centre Hotel",
+	"Country": "England",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0f9102e0b724f7ca65254"
+	},
+	"Name": "Holiday Inn Belfast",
+	"Location": "Belfast",
+	"HotelType": "City Centre Hotel",
+	"Country": "Northern Ireland",
+	"Image": "https://ihg.scene7.com/is/image/ihg/holiday-inn-express-london-4553042096-4x3",
+	"Website": "www.HolidayInn.co.uk",
+	"review_count": 1,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa182e0b724f7ca65257"
+	},
+	"Name": "Generator Paris",
+	"Location": "Paris",
+	"HotelType": "Budget Hotel",
+	"Country": "France",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa312e0b724f7ca65258"
+	},
+	"Name": "Generator Berlin ",
+	"Location": "Berlin",
+	"HotelType": "Budget Hotel",
+	"Country": "Germany",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa492e0b724f7ca65259"
+	},
+	"Name": "Generator Dosseldorf",
+	"Location": "Dusseldorf",
+	"HotelType": "Budget Hotel",
+	"Country": "Germany",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa5b2e0b724f7ca6525a"
+	},
+	"Name": "Generator London",
+	"Location": "London",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa632e0b724f7ca6525b"
+	},
+	"Name": "Generator Leeds",
+	"Location": "Leeds",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa6e2e0b724f7ca6525c"
+	},
+	"Name": "Generator Coventry",
+	"Location": "Coventry",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa802e0b724f7ca6525d"
+	},
+	"Name": "Generator Suffolk ",
+	"Location": "Suffolk",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fa8d2e0b724f7ca6525e"
+	},
+	"Name": "Generator Liverpool",
+	"Location": "Liverpool",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fad52e0b724f7ca6525f"
+	},
+	"Name": "Generator Manchester",
+	"Location": "Manchester",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "http://www.progettocmr.com/wp-content/uploads/2017/02/Generator_Hostel_Progetto_CMR_3-2.jpg",
+	"Website": "www.GeneratorHotel.co.uk",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb1e2e0b724f7ca65262"
+	},
+	"Name": "Jurrys Inn Manchester",
+	"Location": "Manchester",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb292e0b724f7ca65263"
+	},
+	"Name": "Jurrys Inn London",
+	"Location": "London",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb322e0b724f7ca65264"
+	},
+	"Name": "Jurrys Inn Leeds",
+	"Location": "Leeds",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb3d2e0b724f7ca65265"
+	},
+	"Name": "Jurrys Inn Liverpool",
+	"Location": "Liverpool",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb512e0b724f7ca65266"
+	},
+	"Name": "Jurrys Inn Norwich ",
+	"Location": "Norwich",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb602e0b724f7ca65267"
+	},
+	"Name": "Jurrys Inn Ipswich",
+	"Location": "Ipwich",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb712e0b724f7ca65268"
+	},
+	"Name": "Jurrys Inn Watford",
+	"Location": "Watford",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb882e0b724f7ca65269"
+	},
+	"Name": "Jurrys Inn East London",
+	"Location": "East London",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fb942e0b724f7ca6526a"
+	},
+	"Name": "Jurrys Inn West London",
+	"Location": "West London",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb0fbc62e0b724f7ca6526b"
+	},
+	"Name": "Jurrys Inn Plymouth",
+	"Location": "Plymouth",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5cb103664a3eea391875efef"
+	},
+	"Name": "Jurrys Inn Bristol",
+	"Location": "Bristol",
+	"HotelType": "Budget Hotel",
+	"Country": "England",
+	"Image": "https://hi-cdn.t-rp.co.uk/images/hotels/1523863/0?width=870\u0026height=480\u0026crop=false",
+	"Website": "www.JurrysInncom",
+	"review_count": 0,
+	"latitude": null,
+	"longitude": null,
+	"reviews": [],
+	"__v": 0
+}]
+
